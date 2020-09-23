@@ -47,7 +47,15 @@
   margin-top: 80px;
 }
 
-#why .row img {
+/* non serve più */
+/* #why .row img {
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 30px
+} */
+
+/* regola introdotta per il colore */
+#why img {
   background-color: #428bca;
   border-radius: 50%;
   padding: 30px
